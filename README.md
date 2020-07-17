@@ -1,4 +1,4 @@
-# agp41-databindingcoponent-missing
+# agp41-databindingcomponent-missing
 A minimal example to demonstrate that the androidx.databinding.DataBindingComponent is
 missing in the `debugUnitTestRuntimeClasspath` in agp 4.1-beta04. You are expected to see the
 following exception when running `./gradlew :lib:testDebugUnitTest`
